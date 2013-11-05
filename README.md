@@ -1,4 +1,4 @@
-legendarios
+Legendarios
 ===========
 
 Extensão para o Chrome com notificações de novas legendas
